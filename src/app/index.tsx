@@ -9,7 +9,7 @@ export default function HomeScreen() {
 
       <Image
         source={{
-          uri: 'https://en.wikipedia.org/wiki/University_of_Kelaniya#/media/File:Kelaniya.png',
+          uri: 'https://images.pixels.com/images/artworkimages/mediumlarge/3/1-fortune-teller-crystal-ball-nikolay-todorov.jpg',
         }}
         style={styles.image}
       />
